@@ -1,0 +1,2 @@
+https://github.com/hempalex/scala-impatient/tree/master/Chapter08
+Do Question 8
