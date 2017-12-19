@@ -13,7 +13,7 @@ trait FileLogger extends Logger {
   }
 }
 
-class CtorSavingsAccount extends Account with FileLogger with ShortLogger {}
+class CtorSavingsAccount extends Account with FileLogger /*with ShortLogger */ {}
 
 // the order
 /*
