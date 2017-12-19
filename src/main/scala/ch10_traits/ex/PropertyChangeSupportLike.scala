@@ -1,4 +1,4 @@
-package ch9_traits.ex
+package ch10_traits.ex
 
 import java.beans.{PropertyChangeEvent, PropertyChangeListener, PropertyChangeSupport}
 

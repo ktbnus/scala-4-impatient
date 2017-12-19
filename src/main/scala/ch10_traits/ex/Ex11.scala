@@ -1,4 +1,4 @@
-package ch9_traits.ex
+package ch10_traits.ex
 
 /**
   * Created by Stas on 19/12/2017.

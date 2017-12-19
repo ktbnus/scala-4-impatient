@@ -1,4 +1,4 @@
-package ch9_traits
+package ch10_traits
 
 import java.io.IOException
 

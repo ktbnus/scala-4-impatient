@@ -1,4 +1,4 @@
-package ch9_traits.ex
+package ch10_traits.ex
 
 import java.awt.geom.Ellipse2D
 

@@ -1,4 +1,4 @@
-package ch9_traits
+package ch10_traits
 
 trait Logger {
   def log(msg: String)

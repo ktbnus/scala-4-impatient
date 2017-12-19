@@ -1,4 +1,4 @@
-package ch9_traits
+package ch10_traits
 
 trait TimeStampLogger extends ConsoleLogger {
   override def log(msg: String): Unit = {
